@@ -1,0 +1,6 @@
+prom_instances:
+  - name: first_prometheus
+    url: "https://some_prom:9090"
+
+  - name: "second_prometheus"
+    url: "http://localhost:9090"

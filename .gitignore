@@ -1,0 +1,9 @@
+bin
+lib
+etc
+lib64
+**__pycache__**
+share
+include
+pyvenv.cfg
+.vscode
